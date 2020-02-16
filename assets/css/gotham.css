@@ -1,0 +1,79 @@
+@font-face {
+  font-family: GothamPro;
+  src: url(../font/GothamPro-Light.eot);
+  src: url(../font/GothamPro-Light.woff2) format("woff2"),url(../font/GothamPro-Light.woff) format("woff"),url(../font/GothamPro-Light.ttf) format("truetype"),url(../font/GothamPro-Light.svg#GothamPro-Light) format("svg"),url(../font/GothamPro-Light.eot?#iefix) format("embedded-opentype");
+  font-weight: 100;
+  font-style: normal
+}
+
+@font-face {
+  font-family: GothamPro;
+  src: url(../font/GothamPro-LightItalic.eot);
+  src: url(../font/GothamPro-LightItalic.woff2) format("woff2"),url(../font/GothamPro-LightItalic.woff) format("woff"),url(../font/GothamPro-LightItalic.ttf) format("truetype"),url(../font/GothamPro-LightItalic.svg#GothamPro-LightItalic) format("svg"),url(../font/GothamPro-LightItalic.eot?#iefix) format("embedded-opentype");
+  font-weight: 100;
+  font-style: italic
+}
+
+@font-face {
+  font-family: GothamPro;
+  src: url(../font/GothamPro.eot);
+  src: url(../font/GothamPro.woff2) format("woff2"),url(../font/GothamPro.woff) format("woff"),url(../font/GothamPro.ttf) format("truetype"),url(../font/GothamPro.svg#GothamPro) format("svg"),url(../font/GothamPro.eot?#iefix) format("embedded-opentype");
+  font-weight: 200;
+  font-style: normal
+}
+
+@font-face {
+  font-family: GothamPro;
+  src: url(../font/GothamPro-Italic.eot);
+  src: url(../font/GothamPro-Italic.woff2) format("woff2"),url(../font/GothamPro-Italic.woff) format("woff"),url(../font/GothamPro-Italic.ttf) format("truetype"),url(../font/GothamPro-Italic.svg#GothamPro-Italic) format("svg"),url(../font/GothamPro-Italic.eot?#iefix) format("embedded-opentype");
+  font-weight: 200;
+  font-style: italic
+}
+
+@font-face {
+  font-family: GothamPro;
+  src: url(../font/GothamPro-Medium.eot);
+  src: url(../font/GothamPro-Medium.woff2) format("woff2"),url(../font/GothamPro-Medium.woff) format("woff"),url(../font/GothamPro-Medium.ttf) format("truetype"),url(../font/GothamPro-Medium.svg#GothamPro-Medium) format("svg"),url(../font/GothamPro-Medium.eot?#iefix) format("embedded-opentype");
+  font-weight: 400;
+  font-style: normal
+}
+
+@font-face {
+  font-family: GothamPro;
+  src: url(../font/GothamPro-MediumItalic.eot);
+  src: url(../font/GothamPro-MediumItalic.woff2) format("woff2"),url(../font/GothamPro-MediumItalic.woff) format("woff"),url(../font/GothamPro-MediumItalic.ttf) format("truetype"),url(../font/GothamPro-MediumItalic.svg#GothamPro-MediumItalic) format("svg"),url(../font/GothamPro-MediumItalic.eot?#iefix) format("embedded-opentype");
+  font-weight: 400;
+  font-style: italic
+}
+
+@font-face {
+  font-family: GothamPro;
+  src: url(../font/GothamPro-Bold.eot);
+  src: url(../font/GothamPro-Bold.woff2) format("woff2"),url(../font/GothamPro-Bold.woff) format("woff"),url(../font/GothamPro-Bold.ttf) format("truetype"),url(../font/GothamPro-Bold.svg#GothamPro-Bold) format("svg"),url(../font/GothamPro-Bold.eot?#iefix) format("embedded-opentype");
+  font-weight: 600;
+  font-style: normal
+}
+
+@font-face {
+  font-family: GothamPro;
+  src: url(../font/GothamPro-BoldItalic.eot);
+  src: url(../font/GothamPro-BoldItalic.woff2) format("woff2"),url(../font/GothamPro-BoldItalic.woff) format("woff"),url(../font/GothamPro-BoldItalic.ttf) format("truetype"),url(../font/GothamPro-BoldItalic.svg#GothamPro-BoldItalic) format("svg"),url(../font/GothamPro-BoldItalic.eot?#iefix) format("embedded-opentype");
+  font-weight: 600;
+  font-style: italic
+}
+
+@font-face {
+  font-family: GothamPro;
+  src: url(../font/GothamPro-Black.eot);
+  src: url(../font/GothamPro-Black.woff2) format("woff2"),url(../font/GothamPro-Black.woff) format("woff"),url(../font/GothamPro-Black.ttf) format("truetype"),url(../font/GothamPro-Black.svg#GothamPro-Black) format("svg"),url(../font/GothamPro-Black.eot?#iefix) format("embedded-opentype");
+  font-weight: 800;
+  font-style: normal
+}
+
+@font-face {
+  font-family: GothamPro;
+  src: url(../font/GothamPro-BlackItalic.eot);
+  src: url(../font/GothamPro-BlackItalic.woff2) format("woff2"),url(../font/GothamPro-BlackItalic.woff) format("woff"),url(../font/GothamPro-BlackItalic.ttf) format("truetype"),url(../font/GothamPro-BlackItalic.svg#GothamPro-BlackItalic) format("svg"),url(../font/GothamPro-BlackItalic.eot?#iefix) format("embedded-opentype");
+  font-weight: 800;
+  font-style: italic
+}

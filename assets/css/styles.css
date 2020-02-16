@@ -1,0 +1,146 @@
+body, html{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'GothamPro', sans-serif;
+    background-color: #353d44;
+    color: #43484c;
+}
+a, a:hover{
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+}
+.container{
+    width: 1360px;
+    max-width: 1360px;
+}
+.wrapper, .footer{
+    margin: 50px 50px 0;
+    position: relative;
+    background: #FFF url('../img/background.png')repeat right top;
+    background-size: 100%;
+    box-shadow: 0 0 50px #181922;
+}
+.footer{
+    margin-top: 0;
+    margin-bottom: 50px;
+    box-shadow: none;
+    background: #49545b;
+    color: #FFF;
+    font-weight: 300;
+    font-size: 14px;
+}
+.footer a{
+    color: #FFF
+}
+.logo{
+   height: 80px;
+}
+.socials img{
+    height: 30px;
+    margin-left: 10px;
+    transition: 0.3s all ease;
+    -moz-transition: 0.3s all ease;
+    -webkit-transition: 0.3s all ease;
+}
+.socials img:hover{
+    opacity: .6;
+    transition: 0.3s all ease;
+    -moz-transition: 0.3s all ease;
+    -webkit-transition: 0.3s all ease;
+}
+.content{
+    padding: 50px 0 30px;
+}
+.text-blue{
+    color: #279cdf;
+}
+h2{
+    font-size: 45px;
+    font-weight: 600;
+    letter-spacing: -1px;
+}
+p{
+    letter-spacing: 0.01em;
+    line-height: 2em;
+    font-weight: 400!important;
+}
+.specification {
+    background: rgba(0,0,0,.4);
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    padding: 25px 60px;
+    color: #FAFAFA;
+    font-size: 14px;
+    line-height: 2em;
+  }
+  .specification .spec-title{
+      font-weight: 300;
+      margin-bottom: 15px;
+      line-height: 1.4em;
+      opacity: .6;
+  }
+
+  /* Responsive Layout */
+@media screen and (max-width: 1366px){
+    .container{
+        max-width: 100%;   
+    }
+    .wrapper, .footer{
+        margin: 30px 30px 0;
+    }
+    .footer{
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width: 992px){
+    .wrapper{
+        background: #FFF;
+    }
+    #nav{
+        background-color: #3da6e2;
+        margin: 0;
+    }
+    .logo{
+        height: 45px;
+    }
+    .socials img{
+        height: 20px;
+    }
+    .car, .spec-wrap{
+        background-color: #3da6e2;
+    }
+    .spec-wrap{
+        padding-bottom: 40px;
+    }
+    .content{
+        padding-bottom: 0!important;
+    }
+    .wrapper, .footer{
+        margin: 0;
+        box-shadow: none;
+    }
+    .container{
+        padding: 0;
+    }
+    .row{
+        margin: 0;
+    }
+    .specification {
+        padding: 0px 30px 25px;
+    }
+    .spec-title{
+        margin-top: 40px;
+        margin-bottom: 10px!important;
+    }
+}
+@media screen and (max-width: 768px){
+    .socials{
+        margin-top: 20px;
+    }
+}
